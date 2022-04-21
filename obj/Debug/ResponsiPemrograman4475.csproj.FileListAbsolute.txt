@@ -1,0 +1,6 @@
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiPemrograman4475\ResponsiPemrograman4475\bin\Debug\ResponsiPemrograman4475.exe.config
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiPemrograman4475\ResponsiPemrograman4475\obj\Debug\ResponsiPemrograman4475.csprojResolveAssemblyReference.cache
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiPemrograman4475\ResponsiPemrograman4475\bin\Debug\ResponsiPemrograman4475.exe
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiPemrograman4475\ResponsiPemrograman4475\bin\Debug\ResponsiPemrograman4475.pdb
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiPemrograman4475\ResponsiPemrograman4475\obj\Debug\ResponsiPemrograman4475.exe
+D:\Amikom Nabil\TUGAS AMIKOM\Semester 2\Pemrograman\Responsi\ResponsiPemrograman4475\ResponsiPemrograman4475\obj\Debug\ResponsiPemrograman4475.pdb
